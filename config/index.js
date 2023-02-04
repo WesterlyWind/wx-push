@@ -1,6 +1,6 @@
 module.exports = {
-  appid: "wx71941f6106ae1072",
-  appsecret: "b4b2ad8a8d4a94e403831886ac10c646",
+  appid: "wx098cfda9fea1daa7",
+  appsecret: "6ae7e5b62ba9bee147ea94cce8aa59a3",
   template_id: "q14lTqsDyK0N-KcZUs8UKHOl3GWn2uErDk-8hbm2ouQ",
   touser: "oonWJ5slWuS2OrJdgCLM3GmNdxVk",
 
